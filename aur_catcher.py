@@ -45,7 +45,7 @@ def get_pkg_info(pkg_name):
                     f"Description: {description}\n"
                     f"Website: {website}\n"
                     f"Snapshot: {aur_path}\n"
-                    f"Votes: {votes}\n"
+                    f"Votes: {num_votes}\n"
                     f"Popularity: {pop}\n"
                     f"Status: {status}\n"
                 )
