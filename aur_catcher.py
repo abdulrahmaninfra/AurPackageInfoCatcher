@@ -55,7 +55,7 @@ def get_pkg_info(pkg_name):
             return f"Error: Server return status code {response.status_code}"
     
     except Exception as e:
-        return "an unexpected error!!"
+        return f"an unexpected error! , {e}"
 
 
 if __name__ == "__main__":
