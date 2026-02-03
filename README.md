@@ -1,4 +1,4 @@
-# AUR Package Checker 📦
+# AUR Package Catcher 📦
 
 A lightweight Python utility designed to fetch real-time information and safety metrics for packages on the **Arch User Repository (AUR)**. By interfacing with the official AUR RPC API, this tool helps users quickly vet packages before installation.
 
